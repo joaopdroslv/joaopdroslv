@@ -1,9 +1,9 @@
 ### Olá! Sou o JOÃO PEDRO!
 
 - Tenho 21 anos.
-- Estudante e apaixonado por tecnologia.
-- Cursando | Análise e desenvolvimento de sistemas.
-- Trabalhando | Atendimento baseado em ChatBots.
+- Estudante e entusiasta da tecnologia.
+- Análise e desenvolvimento de sistemas.
+- Trabalho com atendimento baseado em ChatBots.
 
 ##
 
