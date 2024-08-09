@@ -1,6 +1,6 @@
 ### Olá! Sou o JOÃO PEDRO!
 
-- Tenho 21 anos
+- Tenho 22 anos
 - Curso Análise e Desenvolvimento de Sistemas
 
 ##
