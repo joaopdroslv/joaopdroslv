@@ -2,6 +2,7 @@
 
 - Tenho 22 anos
 - Curso Análise e Desenvolvimento de Sistemas
+- Desenvolvedor Júnior na Bevi [https://www.bevioficial.com.br/]
 
 ##
 
