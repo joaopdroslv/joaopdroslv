@@ -2,17 +2,13 @@
 
 👋 **Hello, World!**  
 I'm a 23-year-old **backend developer** with a passion for technology and programming. 
-Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development—*I do my best there!* 😄
-
----
+Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!* 😄
 
 ## 🚀 **GitHub Stats**
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdroslv&show_icons=true&theme=synthwave&hide_border=true" alt="João Pedro's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=synthwave&hide_border=true" alt="João Pedro's Top Languages"/>
 </div>
-
----
 
 ## 🛠️ **Tech Stack**
 
@@ -35,8 +31,6 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
 <div style="display: flex; gap: 10px;">
   <img alt="MySQL" title="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-
----
 
 ## 🌟 **Extras**
 - 🌱 Learning **Golang** to level up my backend skills. 
