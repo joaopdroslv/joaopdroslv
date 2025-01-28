@@ -1,27 +1,42 @@
-### Olá! Sou o JOÃO PEDRO!
+# Welcome! I'm **João Pedro!**
 
-- Tenho 22 anos
-- Curso Análise e Desenvolvimento de Sistemas
-- Atualmente trabalhando como desenvolvedor júnior
+👋 **Hello, World!**  
+I'm a 23-year-old **backend developer** with a passion for technology and programming. 
+Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development—*I do my best there!* 😄
 
-##
+---
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopdroslv&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=synthwave)
-
-##
-
-<br>
-
-<div style="display: inline_block">
-  <img align="center" alt="csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="html_5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="css_3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+## 🚀 **GitHub Stats**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdroslv&show_icons=true&theme=synthwave&hide_border=true" alt="João Pedro's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=synthwave&hide_border=true" alt="João Pedro's Top Languages"/>
 </div>
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Backend**
+<div style="display: flex; gap: 10px;">
+  <img alt="C#" title="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="PHP" title="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img alt="Laravel" title="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+</div>
+
+### **Frontend**
+<div style="display: flex; gap: 10px;">
+  <img alt="HTML5" title="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3" title="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
+### **Database**
+<div style="display: flex; gap: 10px;">
+  <img alt="MySQL" title="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+## 🌟 **Extras**
+- 🌱 Learning **Golang** to level up my backend skills. 
