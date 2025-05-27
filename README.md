@@ -32,5 +32,11 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
   <img alt="MySQL" title="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+### **Tools**
+<div style="display: flex; gap: 10px;"> 
+  <img alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
+</div>
+
 ## 🌟 **Extras**
-- 🌱 Learning **Golang** to level up my backend skills. 
+- 🌱 Learning **Golang** to level up my backend skills.
