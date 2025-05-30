@@ -1,6 +1,7 @@
 # Welcome! I'm **João Pedro!**
 
 👋 **Hello, World!**  
+
 I'm a 23-year-old **backend developer** with a passion for technology and programming. 
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!* 😄
 
