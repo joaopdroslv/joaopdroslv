@@ -1,22 +1,20 @@
-# Welcome! I'm **João Pedro!**
-
-👋 **About Me**  
-
 <h1 align="center">I'm João Pedro Silva!</h1>
 <h3 align="center">Mid-Level Backend Developer</h3>
+
+## 👋 **About Me**  
 
 I'm a 23-year-old **backend developer** with a passion for technology and programming. 
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaopedroslv/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pdrojoao.slv@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/joaopedroslv?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/-Repositórios-181717?style=flat&logo=github&logoColor=white" />
+    <img alt="Repos" src="https://img.shields.io/badge/-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
