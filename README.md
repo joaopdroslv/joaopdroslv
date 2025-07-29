@@ -5,7 +5,7 @@ I'm a 23-year-old **mid-level backend developer** with a passion for technology 
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaopedroslv/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopdroslv/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pdrojoao.slv@gmail.com">
@@ -20,7 +20,7 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroslv&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroslv&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=radical" />
 </p>
 
 ## 🛠️ **Tech Stack**
