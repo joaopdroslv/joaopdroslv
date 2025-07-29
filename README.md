@@ -5,7 +5,7 @@ I'm a 23-year-old **mid-level backend developer** with a passion for technology 
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
 
 <p align="center">
-  <a href="linkedin.com/in/joão-pedro-silva-aa5810374" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-aa5810374/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pdrojoao.slv@gmail.com">
