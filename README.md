@@ -1,9 +1,7 @@
 <h1 align="center">I'm João Pedro Silva!</h1>
 <h3 align="center">Mid-Level Backend Developer</h3>
 
-## 👋 **About Me**  
-
-I'm a 23-year-old **backend developer** with a passion for technology and programming. 
+I'm a 23-year-old **mid-level backend developer** with a passion for technology and programming. 
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
 
 <p align="center">
@@ -36,6 +34,9 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
