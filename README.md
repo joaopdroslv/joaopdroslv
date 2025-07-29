@@ -27,7 +27,7 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
 
 ## 🛠️ **Tech Stack**
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
