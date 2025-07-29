@@ -5,7 +5,6 @@ I'm a 23-year-old guy with a passion for technology and programming.
 
 Graduated in **Systems Analysis and Development**, I'm currently working as a **Mid-Level Backend Developer**, mainly using `Python`. My focus is on backend technologies, but I also dabble in frontend development.
 
-<br /><br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-aa5810374/" target="_blank">
@@ -26,9 +25,8 @@ Graduated in **Systems Analysis and Development**, I'm currently working as a **
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=github_dark" />
 </p>
 
-<br /><br />
-
 ## 🛠️ **Tech Stack**
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
