@@ -1,8 +1,9 @@
 <h1 align="center">I'm João Pedro Silva!</h1>
 <h3 align="center">Mid-Level Backend Developer</h3>
 
-I'm a 23-year-old **mid-level backend developer** with a passion for technology and programming. 
-Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
+I'm a 23-year-old guy with a passion for technology and programming.
+
+Graduated in **Systems Analysis and Development**, I'm currently working as a **Mid-Level Backend Python Developer**. My focus is on backend technologies, but I also dabble in frontend development.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-aa5810374/" target="_blank">
