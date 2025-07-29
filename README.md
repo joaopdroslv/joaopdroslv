@@ -6,12 +6,11 @@ I'm a 23-year-old **backend developer** with a passion for technology and progra
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
 
 ## 🚀 **GitHub Stats**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdroslv&show_icons=true&theme=synthwave&hide_border=true" alt="João Pedro's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=synthwave&hide_border=true" alt="João Pedro's Top Languages"/>
-</div>
 
----
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroslv&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroslv&layout=compact&theme=radical" />
+</p>
 
 ## 🛠️ **Tech Stack**
 
