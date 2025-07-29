@@ -20,7 +20,7 @@ Graduated in **Systems Analysis and Development**, I'm currently working as a **
 ## 🚀 **GitHub Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroslv&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdroslv&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdroslv&layout=compact&theme=github_dark" />
 </p>
 
