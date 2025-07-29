@@ -11,7 +11,7 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
   <a href="mailto:pdrojoao.slv@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/joaopedroslv?tab=repositories">
+  <a href="https://github.com/joaopdroslv?tab=repositories">
     <img alt="Repos" src="https://img.shields.io/badge/-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
