@@ -1,6 +1,6 @@
 # Welcome! I'm **João Pedro!**
 
-👋 **Hello, World!**  
+👋 **About Me**  
 
 I'm a 23-year-old **backend developer** with a passion for technology and programming. 
 Graduated in **Systems Analysis and Development**, I focus on backend technologies but also dabble in frontend development — *I do my best there!*
@@ -27,5 +27,6 @@ Graduated in **Systems Analysis and Development**, I focus on backend technologi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 🌟 **Extras**
+## ✨ **Extras**
+
 - 🌱 Learning **Golang** to level up my backend skills.
