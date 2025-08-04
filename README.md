@@ -45,7 +45,7 @@ Graduated in **Systems Analysis and Development**, I'm currently working as a **
 
 ## ✨ **Extras**
 
-- I'm currently learning/improving my skills in these technologies
+- I'm currently learning/improving my skills in these technologies.
 
 <br />
 <p align="center">
