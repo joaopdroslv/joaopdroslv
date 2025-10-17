@@ -1,7 +1,7 @@
 <h1 align="center">I'm João Pedro Silva!</h1>
-<h3 align="center">Mid-Level Backend Developer</h3>
+<h3 align="center">Mid-Level Fullstack Developer</h3>
 
-Graduated in **Systems Analysis and Development**, I'm currently working as a **Mid-Level Backend Developer**, mainly using `Python`. My focus is on backend technologies, but I also dabble in frontend development.
+Graduated in **Systems Analysis and Development**, I'm currently working as a **Mid-Level Fullstack Developer**, mainly using `Python`, `React & TypeScript`. My focus is on backend technologies, but I also dabble in frontend development.
 <br /><br />
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-aa5810374/" target="_blank">
@@ -31,6 +31,7 @@ Graduated in **Systems Analysis and Development**, I'm currently working as a **
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
