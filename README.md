@@ -1,7 +1,7 @@
 <h1 align="center">I'm João Pedro Silva!</h1>
-<h3 align="center">Mid-Level Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
-Graduated in **Systems Analysis and Development**, I'm currently working as a **Mid-Level Fullstack Developer**, mainly using `Python`, `React & TypeScript`. My focus is on backend technologies, but I also dabble in frontend development.
+Graduated in **Systems Analysis and Development**, I'm currently working as a **Fullstack Developer**, mainly using `Python`. My focus is on backend technologies, but I also dabble in frontend development.
 <br /><br />
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-aa5810374/" target="_blank">
